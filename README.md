@@ -1,31 +1,31 @@
 # Marketing-Executive-Process-Analyzer
 
 ## Module Split-Up
-## Module 1:Territory Manager (By R.Anish)
+## Module 1:Territory Manager
 1. Analysis
 2. Design
 3. DEvelopment
 4. Testing
 5. Implementation
-## Module 2:Zonal Manager(By A.Aravind)
+## Module 2:Zonal Manager
 1. Analysis
 2. Design
 3. DEvelopment
 4. Testing
 5. Implementation
-## Module 3:Branch Manager(By M.Arshath)
+## Module 3:Branch Manager
 1. Analysis
 2. Design
 3. DEvelopment
 4. Testing
 5. Implementation
-## Module 4:Team Leader(By R.NagaiMugan)
+## Module 4:Team Leader
 1. Analysis
 2. Design
 3. DEvelopment
 4. Testing
 5. Implementation
-## Module 5:Team Members(By M.Arshath and R.Anish)
+## Module 5:Team Members
 1. Analysis
 2. Development
 3. Implementation
