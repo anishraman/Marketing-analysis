@@ -14,12 +14,12 @@
 4. Team
 5. Employee
 ## Module 3:Products Management
-1. New Product
+1. Add Product
 2. Product List
 3. Approval
 4. Report
 ## Module 4:Marketing Targets
-1. New Target
+1. Add Target
 2. Target List
 3. Approval
 4. Report
