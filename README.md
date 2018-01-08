@@ -56,7 +56,7 @@
 
 | Module        | Starting Date | Ending Date  |
 | ------------- |:-------------:| ------------:|
-| New Target    |  01-02-2018   |  18-02-2018  |
+| Add Target    |  01-02-2018   |  18-02-2018  |
 | Target List   |  01-02-2018   |  18-02-2018  |
 | Approval      |  01-02-2018   |  18-02-2018  |
 | Report        |  01-02-2018   |  18-02-2018  |
@@ -65,7 +65,7 @@
 ## Module 4:Marketing Targets
 | Module        | Starting Date | Ending Date  |
 | ------------- |:-------------:| ------------:|
-| New Target    |  19-02-2018   |  27-02-2018  |
+| Add Target    |  19-02-2018   |  27-02-2018  |
 | Target List   |  19-02-2018   |  27-02-2018  |
 | Approval      |  19-02-2018   |  27-02-2018  |
 | Report        |  19-02-2018   |  27-02-2018  |
